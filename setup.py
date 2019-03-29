@@ -20,6 +20,7 @@ setup(name="pastegevent3",
           "License :: OSI Approved :: MIT License",
           "Operating System :: OS Independent",
           "Programming Language :: Python",
+          "Programming Language :: Python :: 3",
           "Topic :: Internet :: WWW/HTTP :: HTTP Servers"
       ],
       keywords="paste wsgi gevent",
